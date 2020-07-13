@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lan="en">
+
+<head>
+
+<style>
+
+div{text-align: center;
+}
+
+</style>
+
+
+<head>
+
+<body>
+
+<p><a href="file:///D:/web%20programming/1.html">google image search</a></p>
+
+<p><a href="file:///D:/web%20programming/gas.html">google advance search</a></p>
+
+<div>
+
+<img src="https://s3.amazonaws.com/images.seroundtable.com/google-rainbow-texture-1491566442.jpg">
+
+<form text-align="center" method="get" action="https://google.com/search">
+
+<input type="text" name="q"/>
+
+<input class="gN089b" type="submit" value="google search"/>
+
+</div>
+
+</form>
+
+</body>
+
+</html>
